@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    padding: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+.social-wrapper{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.wrapper{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.maintenance{
+    padding-top: 15px;
+}
