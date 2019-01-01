@@ -8,8 +8,10 @@ p{
 }
 
 .social-wrapper{
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 10px;
+    position: relative;
 }
 
 .wrapper{
@@ -19,4 +21,24 @@ p{
 
 .maintenance{
     padding-top: 15px;
+}
+
+.nes-octocat{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.nes-balloon{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.octo-wrapper{
+    padding-left: 220px;
 }
